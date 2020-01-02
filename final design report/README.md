@@ -140,7 +140,7 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp;**(4)** the prototype design tool used by the team was not particularly suitable, and there was only 15 days for the team to work together. After the deadline, the team did not export it in time, so it finally spent 200 yuan to get a VIP
 
-#### Deficiencies and subsequent improvements:
+#### Deficiencies and subsequent improvements
 &nbsp;&nbsp;&nbsp;&nbsp;**(1)** the function of "adjusting speed" can be added
 
 &nbsp;&nbsp;&nbsp;&nbsp;**(2)** American pronunciation and British pronunciation can be added
