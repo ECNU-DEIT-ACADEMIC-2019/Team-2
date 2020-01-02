@@ -1,5 +1,11 @@
 # team2
 templated team repository
+## 1 introduction
+
+
+
+
+
 ## 5	The KIEBIE analysis of you learning platform 
 
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.jpg" height="360" width="604" > </div> 
