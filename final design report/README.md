@@ -1,8 +1,8 @@
 # team0
 templated team repository
-## 7 7.	Technology applying  
+## 7	Technology applying  
 &nbsp;&nbsp;&nbsp;&nbsp;The APP mainly uses location technology, speech recognition technology, deep learning technology, big data technology, and mobile development technology.
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/ten.PNG" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part7.png" height="360" width="604" > </div> 
 ####  （1）Location technology
 &nbsp;&nbsp;&nbsp;&nbsp;The location technology is mainly embodied in the app's ability to detect the user's location in real time and automatically provide corresponding scenes for the user based on the location. If the user has needs or interests, the user can learn the scene. 
 &nbsp;&nbsp;&nbsp;&nbsp;As an informal oral English learning APP, the general learning process is that learners find appropriate learning resources according to their own needs and use learning resources for learning. If the resources cannot meet their needs, learners will find more appropriate resources again. However, a very important issue is how learners think about what kind of resources they need. In many cases, learners will not be aware of what they could have learned. Special reminders will weaken the function of technical services and enhance the visibility, making learners pay more attention to peripheral learning tools or environmental factors instead of learning content.
