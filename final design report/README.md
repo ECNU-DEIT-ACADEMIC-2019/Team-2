@@ -94,6 +94,10 @@ templated team repository
   
 ## 9 UX evaluation  
 ### 9.1 The questionnaire 
+&nbsp;&nbsp;&nbsp;&nbsp;We collected a total of 31 questionnaires, of which 30 were valid. There are 13 boys and 17 girls. Among them, there are 9 undergraduates and 21 postgraduates. The proportion of each grade was 67.74%, 6.45%, 6.45%, 6.45% and 12.9% respectively.
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/Questionnaire%20introduction.png" height="360" width="604" > </div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 9-1 Questionnaire introductio 
+
 ### 9.2 Confidence_Intervals Sheet
 ### 9.3 Answer_Distributions Sheet
 ### 9.4 Inconsistencies
