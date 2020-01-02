@@ -1,5 +1,63 @@
-# team0
+# team2
 templated team repository
+## 5	The KIEBIE analysis of you learning platform 
+
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.png" height="360" width="604" > </div> 
+  
+&nbsp;&nbsp;&nbsp;&nbsp; Our oral English learning platform named “趣说精英”is a mobile application. This platform try to provide users an ubiquitous and immersive learning experience to practice their pronunciation, grammar, situational conversation and daily dialogue. the detail information about our platform would be illustrated based on mainly key factors, which is KIEBIE analysis.
+
+####  （1）Environment 
+&nbsp;&nbsp;&nbsp;&nbsp; Users can use our application with their smart phone by download it from app store. We design this platform as a mobile app, because the most significant feature of our platform is ubiquitous. Nowadays, almost everyone all over the world have a smart phone as a necessary social media tool. It means, smart phone is the best choice for users to send message or get real time information from their surroundings no matter where they are, or what they are doing.
+####  （2）Knowledge，Skills，Attitude
+&nbsp;&nbsp;&nbsp;&nbsp; The main function of our platform is practicing user’s spoken English. It need to be mentioned that, so many people including students or working stuff are not willing to speak with foreigner in English. According to our observation and some interviews, the reason are showed as they are lack of confidence to speak out, and they don’t have good chance to practice their spoken English in a real word situation. In addition, there are some kind of people who are good at writing or listening, but need to improve their quick reaction in speaking.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Based on the upon evidence, it is necessary to design and develop a kind of English learning platform which include the knowledge of vocabulary, sentences and pronunciation of some specific context and real word situation. For example, in a café situation, users need to learn related vocabulary like “美式咖啡”,“卡布奇诺”etc to create a sentence like “ I would like to drink a cup of Americano coffee.”  All of this basic knowledge is essential for users to make a conversation with other people based on real situation. (figure5-2)
+
+&nbsp;&nbsp;&nbsp;&nbsp; In addition, we are going to improve user’s speaking skills and problem solving skills by creating real world context and synchronous online chatting model. As for the attitude, this platform can improve user’s confidence and interest in speaking English and chat with other people in English.
+
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-2.png" height="360" width="604" > </div> 
+  
+ ####  （3）Behavior and mental process &status
+&nbsp;&nbsp;&nbsp;&nbsp; Our platform refers to learning behavior like listening, speaking, translating, sending message, thumbs up, sliding left and right, pressing to speak, searching, opening location, uploading pictures and files. Adding new friends etc.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Firstly, in human – machine learning model, this platform can measure user’s learning outcome by giving an in-time score which include the accuracy of pronunciation, vocabulary, listening level and accomplishment. At the same time, platform would give an intelligent reflection according to user’s performance.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Secondly, our platform also give users an ranking grade which can be found under the function of personal account. This ranking grade can give users a visible comparison with other people about their ranking position and ranking level, which include bronze, silver, gold, diamond. The ranking grade would be higher with more and more practice and learning.
+
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-3.png" height="360" width="604" > </div> 
+ 
+  ####  （4）Interaction
+&nbsp;&nbsp;&nbsp;&nbsp; Interactions would happen as long as users open this application in their smart phone. 
+if users open their location identification, then they would receive an message from system to ask user if he or she want to start ubiquitous learning. If not, then user can choose his favorite situation to learn. For example, the café situation.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Then, user can start their interaction with our platform by learning or listening situation-based vocabulary and useful statement. If he want, he can also click “heart” image to add into collections for future review.Furthermore, user can click practice to start their real world spoken English practice. Which include human-human interaction and human-machine interaction. In the human-human model, user can create an online synchronous chatting room to start conversation with different users. In this chatting room, he can send voice message, upload image and files, add partner as a friend. In human-machine model, user can interact with machine by completing a pre-designed dialogue. 
+  ####  （5）Experience
+&nbsp;&nbsp;&nbsp;&nbsp; This application was designed to improve user’s English speaking skill. The strategies for good performance need to attract user’s attention, and then improve their interest and motivation to learn and practice.
+
+&nbsp;&nbsp;&nbsp;&nbsp; User’s experience would be acted as they can pronounce the vocabulary accurately by listening to standard pronunciation, express ideas more quickly by day-by-day practice and guidance , chat with other users or computer more fluently and confidently, so that they can improve their spoken English more easily. In addition, with the influence of reflection from our platform and another user, user can find their existing problems more directly, user can find the difference between other people more clearly by noticing ranking grade. 
+
+&nbsp;&nbsp;&nbsp;&nbsp; All in all, user can improve their learning outcome and spoken English by using our platform.
+
+ ####  （6）Interact Object
+&nbsp;&nbsp;&nbsp;&nbsp; As we all know, speaking can happen face to face or online when people talking to real human. Online chatting can help them get connected more easily. So far, we aimed to create an simulated online situation for users to talk with different people. In this model, their interact object is real people who have different characteristic and different culture, maybe different accent but same learning goals. Therefore, the situation would be more complicated but also more interesting and challenging.
+
+&nbsp;&nbsp;&nbsp;&nbsp; In addition, human-machine interaction also necessary because users need to practice their speaking skill with an virtual partner. This virtual partner can interact with users based on pre-designed dialogue to help users memorize or command different expressions. Well, virtual partner is always online and accompanied with users.  
+
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.png" height="360" width="604" > </div> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Based on the upon illustrations, we fill out some concept framework to summarize the relationship between these five factors. These relationships can be explained more clearly by combining learning theory. So let’s move into part 6 to see how to understand these two framework.  
+
+## 6	Learning theory  
+####  （1）What learning theory do you mainly applying
+&nbsp;&nbsp;&nbsp;&nbsp; We mainly applied constructivism and behaviorism learning theories in our platform. Constructivism theory means learners can construct new knowledge in the process of discussing or collaborating with others based on their previous knowledge.  Behaviorism learning theory emphasize the stimulus, reaction and feedback. It means external environment or situation would stimulate learners to learn and react, like asking questions (stimulus)and giving answers(reaction), then following feedback for learners (true or false). 
+####  （2）Why do you applying this(these) theory
+&nbsp;&nbsp;&nbsp;&nbsp; Constructivism is necessary because speaking is a kind of social interactive skill which can be improved by discussing and collaborating with real people in real situation. Thus, in our platform, users can be randomly paired with different people and then have a conversation about specific topics like café, or hospital to construct new knowledge. and new knowledge would affect their learning behavior like speak loudly, fluently and quickly, and learning experience like improving learning interest and motivation. 
+
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-1.png" height="360" width="604" > </div> 
+&nbsp;&nbsp;&nbsp;&nbsp; In addition, we applied behaviorism theory because we believe speaking skill can be improved by training and practicing. For example, learners need to do a lot of exercise before attending final exam. In this view, we designed various of sceneries to teach users how to spell, pronounce, and how to speak. Users can learn some basic vocabulary and useful statements before they move into practice. when users choose human-machine model, they can also interact with virtual partner to complete pre-designed dialogue. After this stimulation and reaction between users and virtual partner, there is an in-time feedback from our platform to give users reflection, suggestions and ranking score.
+
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-2.png" height="360" width="604" > </div> 
+
 ## 7	Technology applying  
 &nbsp;&nbsp;&nbsp;&nbsp;The APP mainly uses location technology, speech recognition technology, deep learning technology, big data technology, and mobile development technology.
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part7.png" height="360" width="604" > </div> 
@@ -125,23 +183,3 @@ templated team repository
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/nine.PNG" height="360" width="604" > </div>  
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/ten.PNG" height="360" width="604" > </div>  
   
-## 11 Conclusion
-&nbsp;&nbsp;&nbsp;&nbsp;As a whole, the project achieved the expected goals, and the interface aesthetics, practicality, attractiveness and other aspects all were of the good feedback. But “setting the speed “and “Sign in to clock in” were not implemented.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table 11 Achievement of expected goals
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/conclusion.png" height="360" width="604" > </div>  
-  
-#### Reflection
-&nbsp;&nbsp;&nbsp;&nbsp;**(1)** team members are happy to cooperate with each other, and they are all actively involved and all are with high efficiency;
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(2)** Division of labor were reasonable and members would share with each other and help each other
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(3)** Carry out the project according to the teacher's teaching arrangement and steps in time, and completed the prototype design first, listened to the opinions of other groups carefully, and carried out several rounds of iterative design and improvement;
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(4)** the prototype design tool used by the team was not particularly suitable, and there was only 15 days for the team to work together. After the deadline, the team did not export it in time, so it finally spent 200 yuan to get a VIP
-
-#### Deficiencies and subsequent improvements
-&nbsp;&nbsp;&nbsp;&nbsp;**(1)** the function of "adjusting speed" can be added
-
-&nbsp;&nbsp;&nbsp;&nbsp;**(2)** American pronunciation and British pronunciation can be added
-
