@@ -2,7 +2,7 @@
 templated team repository
 ## 5	The KIEBIE analysis of you learning platform 
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.png" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.jpg" height="360" width="604" > </div> 
   
 &nbsp;&nbsp;&nbsp;&nbsp; Our oral English learning platform named “趣说精英”is a mobile application. This platform try to provide users an ubiquitous and immersive learning experience to practice their pronunciation, grammar, situational conversation and daily dialogue. the detail information about our platform would be illustrated based on mainly key factors, which is KIEBIE analysis.
 
@@ -15,7 +15,7 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; In addition, we are going to improve user’s speaking skills and problem solving skills by creating real world context and synchronous online chatting model. As for the attitude, this platform can improve user’s confidence and interest in speaking English and chat with other people in English.
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-2.png" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-2.jpg" height="360" width="604" > </div> 
   
  ####  （3）Behavior and mental process &status
 &nbsp;&nbsp;&nbsp;&nbsp; Our platform refers to learning behavior like listening, speaking, translating, sending message, thumbs up, sliding left and right, pressing to speak, searching, opening location, uploading pictures and files. Adding new friends etc.
@@ -24,7 +24,7 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; Secondly, our platform also give users an ranking grade which can be found under the function of personal account. This ranking grade can give users a visible comparison with other people about their ranking position and ranking level, which include bronze, silver, gold, diamond. The ranking grade would be higher with more and more practice and learning.
 
- <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-3.png" height="360" width="604" > </div> 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-3.jpg" height="360" width="604" > </div> 
  
   ####  （4）Interaction
 &nbsp;&nbsp;&nbsp;&nbsp; Interactions would happen as long as users open this application in their smart phone. 
@@ -43,7 +43,7 @@ if users open their location identification, then they would receive an message 
 
 &nbsp;&nbsp;&nbsp;&nbsp; In addition, human-machine interaction also necessary because users need to practice their speaking skill with an virtual partner. This virtual partner can interact with users based on pre-designed dialogue to help users memorize or command different expressions. Well, virtual partner is always online and accompanied with users.  
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-1.png" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-4.jpg" height="360" width="604" > </div> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Based on the upon illustrations, we fill out some concept framework to summarize the relationship between these five factors. These relationships can be explained more clearly by combining learning theory. So let’s move into part 6 to see how to understand these two framework.  
 
@@ -53,10 +53,10 @@ if users open their location identification, then they would receive an message 
 ####  （2）Why do you applying this(these) theory
 &nbsp;&nbsp;&nbsp;&nbsp; Constructivism is necessary because speaking is a kind of social interactive skill which can be improved by discussing and collaborating with real people in real situation. Thus, in our platform, users can be randomly paired with different people and then have a conversation about specific topics like café, or hospital to construct new knowledge. and new knowledge would affect their learning behavior like speak loudly, fluently and quickly, and learning experience like improving learning interest and motivation. 
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-1.png" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-1.jpg" height="360" width="604" > </div> 
 &nbsp;&nbsp;&nbsp;&nbsp; In addition, we applied behaviorism theory because we believe speaking skill can be improved by training and practicing. For example, learners need to do a lot of exercise before attending final exam. In this view, we designed various of sceneries to teach users how to spell, pronounce, and how to speak. Users can learn some basic vocabulary and useful statements before they move into practice. when users choose human-machine model, they can also interact with virtual partner to complete pre-designed dialogue. After this stimulation and reaction between users and virtual partner, there is an in-time feedback from our platform to give users reflection, suggestions and ranking score.
 
- <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-2.png" height="360" width="604" > </div> 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part6-2.jpg" height="360" width="604" > </div> 
 
 ## 7	Technology applying  
 &nbsp;&nbsp;&nbsp;&nbsp;The APP mainly uses location technology, speech recognition technology, deep learning technology, big data technology, and mobile development technology.
