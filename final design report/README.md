@@ -125,3 +125,23 @@ templated team repository
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/nine.PNG" height="360" width="604" > </div>  
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/ten.PNG" height="360" width="604" > </div>  
   
+## 11 Conclusion
+&nbsp;&nbsp;&nbsp;&nbsp;As a whole, the project achieved the expected goals, and the interface aesthetics, practicality, attractiveness and other aspects all were of the good feedback. But “setting the speed “and “Sign in to clock in” were not implemented.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table 11 Achievement of expected goals
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/conclusion.png" height="360" width="604" > </div>  
+  
+#### Reflection
+&nbsp;&nbsp;&nbsp;&nbsp;**(1)** team members are happy to cooperate with each other, and they are all actively involved and all are with high efficiency;
+
+&nbsp;&nbsp;&nbsp;&nbsp;**(2)** Division of labor were reasonable and members would share with each other and help each other
+
+&nbsp;&nbsp;&nbsp;&nbsp;**(3)** Carry out the project according to the teacher's teaching arrangement and steps in time, and completed the prototype design first, listened to the opinions of other groups carefully, and carried out several rounds of iterative design and improvement;
+
+&nbsp;&nbsp;&nbsp;&nbsp;**(4)** the prototype design tool used by the team was not particularly suitable, and there was only 15 days for the team to work together. After the deadline, the team did not export it in time, so it finally spent 200 yuan to get a VIP
+
+#### Deficiencies and subsequent improvements:
+&nbsp;&nbsp;&nbsp;&nbsp;**(1)** the function of "adjusting speed" can be added
+
+&nbsp;&nbsp;&nbsp;&nbsp;**(2)** American pronunciation and British pronunciation can be added
+
