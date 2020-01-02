@@ -3,8 +3,9 @@ templated team repository
 ## 7	Technology applying  
 &nbsp;&nbsp;&nbsp;&nbsp;The APP mainly uses location technology, speech recognition technology, deep learning technology, big data technology, and mobile development technology.
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part7.png" height="360" width="604" > </div> 
-&nbsp;&nbsp;&nbsp;&nbsp;Figure 7-1 primary technology  
-####  （1）Location technology  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 7-1 primary technology  
+
+####  （1）Location technology
 &nbsp;&nbsp;&nbsp;&nbsp;The location technology is mainly embodied in the app's ability to detect the user's location in real time and automatically provide corresponding scenes for the user based on the location. If the user has needs or interests, the user can learn the scene. 
 &nbsp;&nbsp;&nbsp;&nbsp;As an informal oral English learning APP, the general learning process is that learners find appropriate learning resources according to their own needs and use learning resources for learning. If the resources cannot meet their needs, learners will find more appropriate resources again. However, a very important issue is how learners think about what kind of resources they need. In many cases, learners will not be aware of what they could have learned. Special reminders will weaken the function of technical services and enhance the visibility, making learners pay more attention to peripheral learning tools or environmental factors instead of learning content.
 &nbsp;&nbsp;&nbsp;&nbsp;With the introduction of positioning technology, learners can focus on the task of oral learning more smoothly and naturally without additional cognitive burden. Therefore, this APP combines the ubiquitous learning theory, and makes use of location technology, blending oral English learning in learners' daily life, and even its current environment. This makes the oral English learning and learners encounter problems or the real scene a combination, enables learners to study at any time, any place, and better reflect the self-orientation of learning.
