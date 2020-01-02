@@ -1,7 +1,7 @@
 # team2
 templated team repository
 ## 1 introduction
-&nbsp;&nbsp;&nbsp;&nbsp; With the rapid development of speech recognition technology,
+&nbsp;&nbsp;&nbsp;&nbsp; With the rapid development of speech recognition technology, spoken English learning software cut the price of learning English,
 
 
 
