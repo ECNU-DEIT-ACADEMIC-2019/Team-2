@@ -5,6 +5,8 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; Qushuojingying is an application that can help you improve your spoken English. The product positioning of Qushuojingying revolves around spoken English. There are two modes of oral speaking which are human to human mode and man to machine mode. In the human to human mode, the user should choose the number of spoken partner and then choose the character he wants in the scene. The partner ’level is as the same as you. Then the user can conduct the spoken dialogue according to the prompts given by the application. In the human to machine mode, it is a simulated dialogue practice between user and application. The user needs to speak the sentences given by the application, and the application will intelligently score based on the user's speaking performance. This application based on U-learning theory, Users can learn anywhere, anytime. If the user walks into a cafe shop, the scene recommendation given by the application is the café shop. The user can learn the words and sentences related to the cafe, and then select a mode to learn.
 
+## 4 External search
+There are many spoken English applications on the market, but they all have certain limitations, so we decided to develop this application. The spoken applications on the market are as follows.
 
 
 
