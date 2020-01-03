@@ -19,6 +19,12 @@ templated team repository
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-3.jpg" height="360" width="604" > </div> 
 &nbsp;&nbsp;&nbsp;&nbsp; As you can see, based on your interest, you will be personally recommended scenes. If you used to choose the library scene before, you will also be recommended the library scene next time. The festival theme will be intelligently provided according to the time. You can select to the New Year theme scene because it is close to the New Year. Based on your location, you will be recommended for your location related scenes. You can study anywhere, anytime. There is a greater possibility that you will use the dialogue in the real world.
 
+### 4.3 Fun dubbing & Qushuojingying
+&nbsp;&nbsp;&nbsp;&nbsp; Fun dubbing is mainly learned by dubbing movies and TV shows. You can choose the video you like to dub, listen to it one by one, imitate, and repeat it until you are satisfied. In addition, you can see other people's excellent dubbing works. At the end of the whole video, you will have a sense of accomplishment. Great progress was made in imitating the characters in the play. The application is mainly based on imitation for video dubbing, but it does not involve the simulation of real scenes. It is only helpful for the pronunciation and intonation of spoken English. Another disadvantage is that you can repeat the conversation, but you cannot get a score of the follow-up recording until you pay for it, which can’t help you to judge whether the performance is good or not. And if you like the sentence that appears in the movie, you can’t add to your favorites. 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-4.jpg" height="360" width="604" > </div> 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-5.jpg" height="360" width="604" > </div>
+
+
 
 
 ## 5	The KIEBIE analysis of you learning platform 
