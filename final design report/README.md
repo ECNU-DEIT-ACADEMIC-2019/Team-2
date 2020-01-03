@@ -8,7 +8,7 @@ templated team repository
 ## 4 External search
 There are many spoken English applications on the market, but they all have certain limitations, so we decided to develop this application. The spoken applications on the market are as follows.
 ### 4.1 Liulishuo&Qushuojingying
-Firstly, the Liulishuo is very famous in spoken English applications. Users can add personalized lessons according to their interests, and learn the lessons through the challenge mode.
+Firstly, the Liulishuo is very famous in spoken English applications. Users can add personalized lessons according to their interests, and learn the lessons through the challenge mode. There are many courses and many role-playing in this application, the user practice speaking by following the conversation. The users will earn gold coins based on the score of the follow-up recording.
 
 
 
