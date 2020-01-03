@@ -12,9 +12,9 @@ Firstly, the Liulishuo is very famous in spoken English applications. Users can 
 
  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-1.jpg" height="360" width="604" > </div> 
 
-As you can see, in Qushuojingying application, you can select the character which you like to simulate. If you want to simulate a waiter in a restaurant, you can simulate the tone and intonation of the waiter as you like. 
-
-
+As you can see, in Qushuojingying application, you can select the character which you like to simulate. If you want to simulate a waiter in a restaurant, you can simulate the tone and intonation of the waiter as you like. And also you can practice with your real spoken partner which can simulate real-life scenes perfectly. You can say what you want to say, your partner will give you a good respond which is closely related to your conversation.
+### 4.2 Shanbay & Qushuojingying
+Secondly, this application is called Shanbay spoken English whose interface is clean and tidy. It is the same as Liulishuo, the user can follow the conversation that the application provide.
 
 
 ## 5	The KIEBIE analysis of you learning platform 
