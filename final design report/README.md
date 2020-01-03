@@ -2,7 +2,7 @@
 templated team repository
 ## 1 introduction
 &nbsp;&nbsp;&nbsp;&nbsp; With the rapid development of speech recognition technology, spoken English learning software cut the price of learning English, and there are no geographical and time restrictions, which meets the requirements of learners to practice speaking at any time and place. It is favored by learners. More and more learners have chosen to use fragmented time to learn on their mobile phones, instead of sitting in front of a computer or a classroom for a long time. However, the mobile phone spoken application market is chaotic, and the phenomenon of good and bad mixed together is serious. A well-designed and fully-functional spoken language application is a good teacher and friend for students, and a good assistant for teachers. Inferior software will waste time and money, even make learning efficiency down. So we decide to develop an application which can satisfy learners’ need.
-
+&nbsp;&nbsp;&nbsp;&nbsp; Qushuojingying is an application that can help you improve your spoken English. 
 
 
 
