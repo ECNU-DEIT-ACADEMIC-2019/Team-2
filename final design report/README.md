@@ -30,6 +30,8 @@ templated team repository
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-7.jpg" height="360" width="604" > </div>
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-8.jpg" height="360" width="604" > </div>
 &nbsp;&nbsp;&nbsp;&nbsp; As you can see, in Qushuojingying application, you can pick up many scenes to learn and there are many topics in every scene. You can add the sentences into your favorites, which increase usage in daily life. You can match your partner depends on your spoken level, you will not feel yourself inferior.
+### 4.1 Application restrictions
+&nbsp;&nbsp;&nbsp;&nbsp; This application is based on a mobile phone system and cannot be used on a computer. In addition, the product positioning of this application is oral learning, so it has limitations in other aspects of English learning, such as word recitation or listening practice.
 
 
 ## 5	The KIEBIE analysis of you learning platform 
