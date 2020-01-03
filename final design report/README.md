@@ -193,6 +193,11 @@ if users open their location identification, then they would receive an message 
 ### 9.2 Confidence_Intervals Sheet
 ### 9.3 Answer_Distributions Sheet
 ### 9.4 Inconsistencies
+&nbsp;&nbsp;&nbsp;&nbsp; In Inconsistencies sheet, the detect Suspicious Data can detect such more or less random or not serious answers because not all participants will answer all items seriously. In a participant's questionnaire, in the same dimension, if the best evaluation minus the worst evaluation score is higher than 3, it means that the participant's answer in this dimension is not serious.
+&nbsp;&nbsp;&nbsp;&nbsp; In our questionnaire data, five people did not answer seriously in one dimensions. It is indicated that most of the participants were very serious about this questionnaire.
+
+
+
 ### 9.5 Sample_size
 ### 9.6 Scale_Consistency
 &nbsp;&nbsp;&nbsp;&nbsp;Judgment criteria: there is no unified standard to determine how big the value of the reliability coefficient should be. However, it is generally believed that if the reliability coefficient is above 0.9, the reliability is very well. The reliability coefficient is acceptable at 0.8-0.9. At 0.7-0.8, the scale does not lose its value. But if the coefficient below 0.7 indicates a change. In this analysis, the scale was judged to have reliability based on the alpha value greater than 0.7.
