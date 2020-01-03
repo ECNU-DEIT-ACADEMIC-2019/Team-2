@@ -23,7 +23,7 @@ templated team repository
 &nbsp;&nbsp;&nbsp;&nbsp; Fun dubbing is mainly learned by dubbing movies and TV shows. You can choose the video you like to dub, listen to it one by one, imitate, and repeat it until you are satisfied. In addition, you can see other people's excellent dubbing works. At the end of the whole video, you will have a sense of accomplishment. Great progress was made in imitating the characters in the play. The application is mainly based on imitation for video dubbing, but it does not involve the simulation of real scenes. It is only helpful for the pronunciation and intonation of spoken English. Another disadvantage is that you can repeat the conversation, but you cannot get a score of the follow-up recording until you pay for it, which can’t help you to judge whether the performance is good or not. And if you like the sentence that appears in the movie, you can’t add to your favorites. 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-4.jpg" height="360" width="604" > </div> 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-5.jpg" height="360" width="604" > </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp; As you can see, in Qushuojingying application, you can repeat the conversation and get a score based on your performance. You can know your progress well. And if you like some sentences, you can add to your favorites. The review will be convenient. The real scene will bring you to achieve an immersive experience and not just to imitate for the movie.
 
 
 
