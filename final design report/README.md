@@ -24,7 +24,12 @@ templated team repository
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-4.jpg" height="360" width="604" > </div> 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-5.jpg" height="360" width="604" > </div>
 &nbsp;&nbsp;&nbsp;&nbsp; As you can see, in Qushuojingying application, you can repeat the conversation and get a score based on your performance. You can know your progress well. And if you like some sentences, you can add to your favorites. The review will be convenient. The real scene will bring you to achieve an immersive experience and not just to imitate for the movie.
-
+### 4.4 Mofunshow & Qushuojingying
+&nbsp;&nbsp;&nbsp;&nbsp; The Mofunshow is also learned by dubbing movies and TV shows. starting from follow-up imitation, and also has a professional oral assessment like Liulishuo, but the application has many disadvantages. The first is that there are relatively few dubbing resources compared to fun dubbing. The dubbing resources of the Mofunshow is not a complete movie fragment. It is difficult to satisfy different users’ need. Secondly, the classification of the sound resources allocated by the Mofunshow is not completely accurate. Some difficult movies and TV shows recommendations appear in the resources of primary level classification, which brings learning difficulties to primary level users. Thirdly, the software's sentence segmentation is not precise enough, the pronunciation of some sentences have more content, or some are missing. Finally, you only can add the whole movie fragment into favorites but can’t add a sentence into favorites.
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-6.jpg" height="360" width="604" > </div>
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-7.jpg" height="360" width="604" > </div>
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-8.jpg" height="360" width="604" > </div>
+&nbsp;&nbsp;&nbsp;&nbsp; As you can see, in Qushuojingying application, you can pick up many scenes to learn and there are many topics in every scene. You can add the sentences into your favorites, which increase usage in daily life. You can match your partner depends on your spoken level, you will not feel yourself inferior.
 
 
 ## 5	The KIEBIE analysis of you learning platform 
