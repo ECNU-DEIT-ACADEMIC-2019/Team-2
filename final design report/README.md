@@ -10,6 +10,9 @@ There are many spoken English applications on the market, but they all have cert
 ### 4.1 Liulishuo&Qushuojingying
 Firstly, the Liulishuo is very famous in spoken English applications. Users can add personalized lessons according to their interests, and learn the lessons through the challenge mode. There are many courses and many role-playing in this application, the user practice speaking by following the conversation. The users will earn gold coins based on the score of the follow-up recording. In addition, the app also has an English proficiency test, which can locate and evaluate your English proficiency. This application also has a real person-matched dialogue, but both of you should speak the specified sentence, which cannot have freedom to speak what you want to speak. But this application also has drawbacks. First of all, in the context of dialogue practice, it is not possible to choose a character, and secondly, there is no real partner matching dialogue, which cannot simulate real situations well.
 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-1.jpg" height="360" width="604" > </div> 
+
+As you can see, in Qushuojingying application, you can select the character which you like to simulate. If you want to simulate a waiter in a restaurant, you can simulate the tone and intonation of the waiter as you like. 
 
 
 
