@@ -203,8 +203,8 @@ if users open their location identification, then they would receive an message 
 &nbsp;&nbsp;&nbsp;&nbsp; The Sample_size sheet can give the minimum sample number of our questionnaire under certain precision and confidence interval according to the standard deviation. The precision refers to the deviation between true scale mean in the population and the estimated scale mean from the sample. The confidence interval refers to interval estimate of a population parameter and is used to indicate the reliability of an estimate. The standard deviation refers to the square root of the variance.
 &nbsp;&nbsp;&nbsp;&nbsp; Our sample size is 30, and confidence interval is calculated to be 95%. The precision is 0.5.
 &nbsp;&nbsp;&nbsp;&nbsp; The value in the population is the value from the sample plus or minus 0.5, and we have a 95% probability that the true value in the population is within this interval.
-
-
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-5-1.png" height="360" width="400" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-5-2.png" height="360" width="400" > </div>  
 
 ### 9.6 Scale_Consistency
 &nbsp;&nbsp;&nbsp;&nbsp;Judgment criteria: there is no unified standard to determine how big the value of the reliability coefficient should be. However, it is generally believed that if the reliability coefficient is above 0.9, the reliability is very well. The reliability coefficient is acceptable at 0.8-0.9. At 0.7-0.8, the scale does not lose its value. But if the coefficient below 0.7 indicates a change. In this analysis, the scale was judged to have reliability based on the alpha value greater than 0.7.
