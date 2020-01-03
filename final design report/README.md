@@ -16,7 +16,8 @@ templated team repository
 ### 4.2 Shanbay & Qushuojingying
 &nbsp;&nbsp;&nbsp;&nbsp; Secondly, this application is called Shanbay spoken English whose interface is clean and tidy. It is the same as Liulishuo, the user can follow the conversation that the application provide. And the application will give the user a score based on their performance. Also there are many courses and many role-playing in this application just like Liulishuo. But this application pay more attention to intonation. There is no doubt that it can train our tone well. In addition, there is a Shanbay spoken story section, this section is really very interesting. This section will provide you a story scene, you can simulate the character in the story, you can't help learning. It is helpful for the pronunciation and intonation of spoken English. The application’s first disadvantage is that there is no real person-matched dialogue. Another disadvantage is that story scene is limited and charge for the customers which is intolerable. 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-2.jpg" height="360" width="604" > </div> 
-
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part4-3.jpg" height="360" width="604" > </div> 
+&nbsp;&nbsp;&nbsp;&nbsp; As you can see, based on your interest, you will be personally recommended scenes. If you used to choose the library scene before, you will also be recommended the library scene next time. The festival theme will be intelligently provided according to the time. You can select to the New Year theme scene because it is close to the New Year. Based on your location, you will be recommended for your location related scenes. You can study anywhere, anytime. There is a greater possibility that you will use the dialogue in the real world.
 
 
 
