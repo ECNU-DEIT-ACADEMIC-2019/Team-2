@@ -225,19 +225,19 @@ if users open their location identification, then they would receive an message 
 
 &nbsp;&nbsp;&nbsp;&nbsp; As we can see from following table1, mean value of 6 scales are all higher than 1.4. the highest is attractiveness whose mean value is 1.839(SD=1.00), then followed by stimulation, efficiency and novelty. While the dimension of perspicuity is the lowest one. thus, we can have a result that users experience of 	QuShuoJingYing platform from different regions and major are positive and good.
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-1.jpg" height="360" width="604" > </div> 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-8-1.jpg" height="360" width="604" > </div> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; As it shown in following figure1, we can have a visualized and intuitive description of users experience, the overall average were really positive and close to value 2. But we can’t see the detailed mean value and standard deviation of each scale if we ignore the table1. 
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-2.jpg" height="360" width="604" > </div> 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-8-2.jpg" height="360" width="604" > </div> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Let us move into more detailed descriptions of each item.（figure3） Obviously, this figure can give us more direct and clear explanation that why the mean value of 6 scales are higher than 1.4. for example, the mean value of attractivenss scale is 1.839. the result is mainly due to users experience of our platform are enjoyable, pleasing, good and attractive.  
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-3.jpg" height="500" width="500" > </div> 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-8-3.jpg" height="500" width="500" > </div> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; The table2 is a statistical description of pragmatic and hedonic quality of our platform. The results showed that attractiveness, pragmatic and hedonic quality are good (between 1.6, 2). That means users thought that our platform are attractive and practical, not to mention its hedonic quality.  
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-4.jpg" height="360" width="604" > </div> 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-8-4.jpg" height="360" width="604" > </div> 
 
 
 
