@@ -51,7 +51,7 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; In addition, we are going to improve user’s speaking skills and problem solving skills by creating real world context and synchronous online chatting model. As for the attitude, this platform can improve user’s confidence and interest in speaking English and chat with other people in English.
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-2.jpg" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-2.jpg" height="360" width="450" > </div> 
   
  ####  （3）Behavior and mental process &status
 &nbsp;&nbsp;&nbsp;&nbsp; Our platform refers to learning behavior like listening, speaking, translating, sending message, thumbs up, sliding left and right, pressing to speak, searching, opening location, uploading pictures and files. Adding new friends etc.
@@ -60,7 +60,7 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; Secondly, our platform also give users an ranking grade which can be found under the function of personal account. This ranking grade can give users a visible comparison with other people about their ranking position and ranking level, which include bronze, silver, gold, diamond. The ranking grade would be higher with more and more practice and learning.
 
- <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-3.jpg" height="360" width="604" > </div> 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-3.jpg" height="420" width="300" > </div> 
  
   ####  （4）Interaction
 &nbsp;&nbsp;&nbsp;&nbsp; Interactions would happen as long as users open this application in their smart phone. 
@@ -79,7 +79,7 @@ if users open their location identification, then they would receive an message 
 
 &nbsp;&nbsp;&nbsp;&nbsp; In addition, human-machine interaction also necessary because users need to practice their speaking skill with an virtual partner. This virtual partner can interact with users based on pre-designed dialogue to help users memorize or command different expressions. Well, virtual partner is always online and accompanied with users.  
 
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-4.jpg" height="360" width="604" > </div> 
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part5-4.jpg" height="420" width="300" > </div> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Based on the upon illustrations, we fill out some concept framework to summarize the relationship between these five factors. These relationships can be explained more clearly by combining learning theory. So let’s move into part 6 to see how to understand these two framework.  
 
@@ -219,7 +219,27 @@ if users open their location identification, then they would receive an message 
 &nbsp;&nbsp;&nbsp;&nbsp;In the chart, we can see data from 18,483 people studied in 401 studies concerning different products (business software, web pages, online stores, social networks). It can be used as a benchmark and compared with the questionnaire data, and then the grade of qushuojingying relative to other products can be obtained.
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/wu3.JPG" height="240" width="903" > </div> 
 &nbsp;&nbsp;&nbsp;&nbsp;As can be seen from the mean line of the reference graph that the mean value of the six dimensions of qushuojingying application are all above 1.4, which is above the middle level. Attractiveness (mean=1.84), stimulation (mean=1.76) and novelty (mean=1.73) are all rated as excellent level. Efficiency (mean=1.73) and dependability (mean=1.63) are in good level. And the perspicuity (mean=1.43) is the above average level. In this way, it can be seen that the performance of qushuojingying application in Attractiveness, stimulation and novelty are recognized with customers. The performance of efficiency and dependability is good. But perspicuity in the qushuojingying applacation needs to be improved.
+
+
 ### 9.8 Main result
+
+&nbsp;&nbsp;&nbsp;&nbsp; As we can see from following table1, mean value of 6 scales are all higher than 1.4. the highest is attractiveness whose mean value is 1.839(SD=1.00), then followed by stimulation, efficiency and novelty. While the dimension of perspicuity is the lowest one. thus, we can have a result that users experience of 	QuShuoJingYing platform from different regions and major are positive and good.
+
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-1.jpg" height="360" width="604" > </div> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; As it shown in following figure1, we can have a visualized and intuitive description of users experience, the overall average were really positive and close to value 2. But we can’t see the detailed mean value and standard deviation of each scale if we ignore the table1. 
+
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-2.jpg" height="360" width="604" > </div> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Let us move into more detailed descriptions of each item.（figure3） Obviously, this figure can give us more direct and clear explanation that why the mean value of 6 scales are higher than 1.4. for example, the mean value of attractivenss scale is 1.839. the result is mainly due to users experience of our platform are enjoyable, pleasing, good and attractive.  
+
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-3.jpg" height="500" width="500" > </div> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; The table2 is a statistical description of pragmatic and hedonic quality of our platform. The results showed that attractiveness, pragmatic and hedonic quality are good (between 1.6, 2). That means users thought that our platform are attractive and practical, not to mention its hedonic quality.  
+
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part9-1-4.jpg" height="360" width="604" > </div> 
+
+
 
 ## 10 final design
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/own.PNG" height="360" width="604" > </div>  
@@ -233,3 +253,15 @@ if users open their location identification, then they would receive an message 
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/nine.PNG" height="360" width="604" > </div>  
   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/ten.PNG" height="360" width="604" > </div>  
   
+ 
+ ## 11 conclusion
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; The table2 is a statistical description of pragmatic and hedonic quality of our platform. The results showed that attractiveness, pragmatic and hedonic quality are good (between 1.6, 2). That means users thought that our platform are attractive and practical, not to mention its hedonic quality.   
+### 11.1 self assessment
+&nbsp;&nbsp;&nbsp;&nbsp; After the collaboration with my partner, I have learned a lot from their group members. They are very creative and impressive, they also can give me a lot of suggestions and guidance. In addition, I have cultivate my interest in designing. We used very useful collaborative tools to design our platform, there are a lot of useful templates we can use. Furthermore, I have improved my critical thinking skill by modifying and designing oral English learning platform, I believe that our platform is useful and meaningful.Finally, my contribution for this group project are mainly include:
+(1)	Designed the function of human-human interactive interface, which include the functions of video and audio chatting, searching dictionary, adding new friends, translation of speaking, uploading files and images, conversation guidance for users, address book, pressing to speak, adding favorite, etc.
+(2)	Writing the final reports, which include the KIEBIE analysis, learning theory , UX survey and analysis.
+(3)	Giving presentation of our final reports
+
+. 
