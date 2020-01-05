@@ -10,7 +10,7 @@ templated team repository
 
  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-1.png" height="360" width="604" > </div>
  <center>**Figure 2.0.1. Baidu Index Search Results1**</center>
-
+ <div align="center">Figure 2.0.1. Baidu Index Search Results1</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp; From the perspective of urban areas in the Baidu Index, the search sources are mainly Shanghai, Beijing, and Shenzhen. This shows that current oral English learning still has market demand.
  
