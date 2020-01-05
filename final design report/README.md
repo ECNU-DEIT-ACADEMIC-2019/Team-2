@@ -8,6 +8,8 @@ templated team repository
 ## 2 Customer Needs Assessment
 &nbsp;&nbsp;&nbsp;&nbsp; The Baidu Index is a data sharing platform based on Baidu's massive netizen behavior data. It can research keyword search trends, observe changes in netizen needs, monitor media public opinion trends, and locate digital consumer characteristics. In the Baidu index, the search is conducted using the English speaking learning software as a keyword, and it can be seen that the search of the English speaking learning software has a high popularity.
 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/part2-1.png" height="360" width="604" > </div> 
+
 &nbsp;&nbsp;&nbsp;&nbsp; From the perspective of urban areas in the Baidu Index, the search sources are mainly Shanghai, Beijing, and Shenzhen. This shows that current oral English learning still has market demand.
  
 &nbsp;&nbsp;&nbsp;&nbsp; For the initial product purpose, an interview outline was designed, including two questions, question one: "How do you evaluate the existing app for practicing spoken English?" Question two: "What functions do you think the spoken app should have?" Using online interviews, 6 potential customers were interviewed, keywords were extracted from the interview results to create a word cloud, and an initial customer demand list was obtained.As can be seen from the word cloud, including real-life video conversation, intelligent speech recognition, situational practice, correct pronunciation, repeated listening and practicing follow-up reading are the functions and elements that current users think are particularly needed for oral English learning software.
