@@ -9,7 +9,7 @@ templated team repository
 &nbsp;&nbsp;&nbsp;&nbsp; The Baidu Index is a data sharing platform based on Baidu's massive netizen behavior data. It can research keyword search trends, observe changes in netizen needs, monitor media public opinion trends, and locate digital consumer characteristics. In the Baidu index, the search is conducted using the English speaking learning software as a keyword, and it can be seen that the search of the English speaking learning software has a high popularity.
 
  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-1.png" height="360" width="604" > </div>
- <center>Figure 2.0.1. Baidu Index Search Results1</center>
+ <center>**Figure 2.0.1. Baidu Index Search Results1**</center>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; From the perspective of urban areas in the Baidu Index, the search sources are mainly Shanghai, Beijing, and Shenzhen. This shows that current oral English learning still has market demand.
