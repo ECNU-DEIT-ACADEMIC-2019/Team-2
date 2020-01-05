@@ -15,27 +15,43 @@ templated team repository
 
 &nbsp;&nbsp;&nbsp;&nbsp; From the perspective of urban areas in the Baidu Index, the search sources are mainly Shanghai, Beijing, and Shenzhen. This shows that current oral English learning still has market demand.
  
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-2.png" height="360" width="604" > </div>
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-2.png" height="360" width="604" > </div>
 
  <div align="center">Figure 2.0.2. Baidu Index Search Results2</div>
  
 &nbsp;&nbsp;&nbsp;&nbsp; For the initial product purpose, an interview outline was designed, including two questions, question one: "How do you evaluate the existing app for practicing spoken English?" Question two: "What functions do you think the spoken app should have?" Using online interviews, 6 potential customers were interviewed, keywords were extracted from the interview results to create a word cloud, and an initial customer demand list was obtained.As can be seen from the word cloud, including real-life video conversation, intelligent speech recognition, situational practice, correct pronunciation, repeated listening and practicing follow-up reading are the functions and elements that current users think are particularly needed for oral English learning software.
   
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-3.png" height="360" width="604" > </div>
+
+ <div align="center">Figure 2.0.3. Customer Needs Word Cloud</div>
   
 &nbsp;&nbsp;&nbsp;&nbsp; By summarizing the word cloud, you can extract the twelve dimensions about the needs of spoken English learning software, which are live video dialogue, real situation practice, pronunciation diagnosis and correction, checking words, watching videos, learning common expressions, American and English pronunciation, setting speed, games, dubbing, study groups and teacher training
   
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-4.png" height="360" width="604" > </div>
+
+ <div align="center">Figure 2.0.4. Initial Customer Needs List Obtained from Interviews and Observations</div>
+  
 &nbsp;&nbsp;&nbsp;&nbsp; For each requirement in the initial customer demand list, a demand level questionnaire is produced, and the statistical results form a customer demand list with weighting factors.From the results, we can see that the average score of each part is 3.5 points, real situation practice is 4.2 points, pronunciation diagnosis and correction is 4.5 points, checking words is 3.8 points, watching videos is 3.5 points, and learning common expressions is 4.2 points. The score is 4.1 for American and English pronunciation, 4.3 points for setting speed, 2.9 points for games, 3.3 for dubbing, 3.1  points for study groups and 3.4 points for teacher training.
+  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-5.png" height="360" width="604" > </div>
+
+ <div align="center">Figure 2.0.5. Customer Needs List (With Weighting factors)</div>
   
 ### 2.1 Weighting of Customer Needs
 
 &nbsp;&nbsp;&nbsp;&nbsp; Analytic Hierarchy Process（AHP）analysis of 12 dimensions of live video dialogue, real situation practice, pronunciation diagnosis and correction, checking words, watching videos, learning common expressions, American and English pronunciation, setting speed, games, dubbing, study groups and teacher training , It can be concluded that the weights are in turn from pronunciation diagnosis and correction, setting speed, real situation practice, learning common expressions, American and English pronunciation, word search, live video conversation, watching videos, dubbing, teacher training, games and Dubbing.
  
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part2-6.png" height="360" width="604" > </div>
+
+ <div align="center">Figure 2.1.1. Example of AHP Pair wise Comparison Chart to Determine Weighting for Main Objective Categories</div>
+ 
 ## 3 Revised Needs Statement and Target Specifications
 
 &nbsp;&nbsp;&nbsp;&nbsp; After multiple interviews and opinions from various groups and teachers, our product has undergone 2 iterations, from the initial word learning, sentence structure learning, oral interaction, and test evaluation to new word query after the first modification Functions and English-Chinese translation functions, and the second modified positioning push function, as well as some shortcuts and functions designed to optimize the user experience, such as favorites. Fully meet the needs and suggestions of users in the previous survey.
  
- 
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team-2/blob/master/images/part3-1.png" height="360" width="604" > </div>
 
+ <div align="center">Figure 3.0.1. Customer requirements revision process</div>
 
 ## 4 External search
 &nbsp;&nbsp;&nbsp;&nbsp; There are many spoken English applications on the market, but they all have certain limitations, so we decided to develop this application. The spoken applications on the market are as follows.
